@@ -1,4 +1,4 @@
-# ✨ ¡Hola! Soy Valentina Ramírez (aka wavival) :3
+# ✨ ¡Hola! Soy Valentina Ramírez (wavival) :3
 
 🎨 Fullstack Developer en construcción (nivel *Legend* en Platzi 🚀), amante del código bonito, la estética pixel-perfect y las ideas que brillan.
 
