@@ -1,45 +1,43 @@
-# ✨ ¡Hola! Soy **Valentina Ramírez** — @wavival 💫  
-*Frontend Dev, UX/UI Designer & aprendiz eterna del universo digital.*
+# ✨ ¡Hola! Soy **Valentina Ramírez** — @wavival 🌙
 
-![Banner personal](banner.png)
+ **Frontend Developer** en constante evolución (nivel *Legend* en Platzi :3).
 
-🎨 **Fullstack Developer en construcción** (nivel *Legend* en Platzi 🚀)  
-Amante del **código limpio**, la **estética pixel-perfect** y las **ideas que brillan con propósito**.  
+![Banner principal](assets/banner.png)
 
-💡 Aprendo, experimento, rompo cosas (con cariño) y construyo mejores.  
-Si algo tiene **HTML, CSS, JS** o nació en **Figma**, probablemente ya lo estoy diseñando o codificando. 🌈
+Actualmente estudiante de **Profesional en Lengua Inglesa** en la **Universidad de San Buenaventura (Bogotá)**, aprendiz autodidacta y fan del aprendizaje sin fin.
 
-## 🛠️ Tecnologías que me hacen latir el corazón
+## 💡 Más allá de código e interfaces
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+☕ Amante del café y de mi playlist *súper crossover*.
+Me encantan las películas animadas, los animales, el **azul** y **Twenty One Pilots**.
+Sueño con dominar la **Ciberseguridad**, **Linux** y el **Backend**, entre otras cosas.
 
-## 🚀 Proyectos destacados
+🌱 Actualmente estoy construyendo **Ubuntu**, una iniciativa de compostaje y economía circular,  
+y **Lúmina**, mi estudio digital donde diseño y desarrollo ideas con amor.  
 
-🌿 [Ubuntu](https://eco-ubuntu.com)  
-Economía circular y compostaje digital.  
-Landing desarrollada con **Astro + Tailwind + Supabase**, desplegada en **Netlify**.  
+## 🚀 Laboratorio creativo y producción
 
-🌐 [Lúmina](https://luminaw.co)  
-Mi portafolio personal — diseño, código y propósito en una sola luz.  
-Hecho con **HTML, CSS, JS** y mucho ☕.
+### Ubuntu
+Página web de una startup de economía circular enfocada en compostaje y sostenibilidad digital.
+Landing creada con **Astro**, **Tailwind** y **Supabase**, desplegada en **Netlify**.
 
-## 📊 GitHub Stats
+🌿 **[Ver repo](https://github.com/wavival/Ubuntu)**  
+🌐 **[Ver demo](https://eco-ubuntu.com)**  
 
-![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavival&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wavival&layout=compact&theme=radical)
+### Lúmina
+Mi portafolio personal: diseño, desarrollo y propósito en una misma luz.
+Diseñado en **Figma**, construido con **Astro**, **Tailwind**, **JavaScript**, y desplegado en **Netlify**. Por cierto, mucho ☕.
 
-## 📬 ¿Charlamos?
+💻 **[Ver repo](https://github.com/wavival/luminaw.co)**  
+🎨 **[Ver demo](https://luminaw.co)**  
 
-💌 **wavival.dev@luminaw.co**    
-💼 [LinkedIn](https://www.linkedin.com/in/wavival)  
-🪶 [Portafolio](https://luminaw.co)
-🎓 [Perfil Platzi](https://platzi.com/p/wavival)
+## 🌐 A un clic
 
-> *Diseño web con alma, propósito y resultados 🌙*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/wavival)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/wavival)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge)](https://wa.me/573502011753)
+[![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge)](https://platzi.com/p/wavival)
+
+📩 **wavival.dev@luminaw.co**
+
+> Con arto 💙 desde Medellín, Colombia.
