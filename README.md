@@ -1,8 +1,8 @@
 # ✨ ¡Hola! Soy **Valentina Ramírez** — @wavival 🌙
 
- **Frontend Developer** en constante evolución (nivel *Legend* en Platzi :3).
-
 ![Banner principal](assets/banner.png)
+
+ **Frontend Developer** en constante evolución (nivel *Legend* en Platzi :3).
 
 Actualmente estudiante de **Profesional en Lengua Inglesa** en la **Universidad de San Buenaventura (Bogotá)**, aprendiz autodidacta y fan del aprendizaje sin fin.
 
@@ -28,14 +28,14 @@ Landing creada con **Astro**, **Tailwind** y **Supabase**, desplegada en **Netli
 Mi portafolio personal: diseño, desarrollo y propósito en una misma luz.
 Diseñado en **Figma**, construido con **Astro**, **Tailwind**, **JavaScript**, y desplegado en **Netlify**. Por cierto, mucho ☕.
 
-💻 **[Ver repo](https://github.com/wavival/luminaw.co)**  
+💻 **[Ver repo](https://github.com/wavival/Lumina)**  
 🎨 **[Ver demo](https://luminaw.co)**  
 
 ## 🌐 A un clic
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/wavival)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/wavival)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge)](https://wa.me/573502011753)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge)](https://wa.me/57302101753)
 [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge)](https://platzi.com/p/wavival)
 
 📩 **wavival.dev@luminaw.co**
