@@ -37,7 +37,7 @@ MITRE ATT&CK mapped • Full PTES technical and executive reporting.
 
 ## ∆ Find me
 
-[LinkedIn](https://linkedin.com/in/wavival) • [Portfolio](https://luminaw.co/portfolio) • [wavival.dev@luminaw.co](mailto:wavival.dev@luminaw.co)
+[LinkedIn](https://linkedin.com/in/wavival) • [Portfolio](https://luminaw.co/portfolio) • [Email](mailto:wavival.dev@luminaw.co)
 
 ---
 
