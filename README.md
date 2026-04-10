@@ -1,7 +1,7 @@
 # Valentina Ramírez • @wavival
 
 **Founder & CEO @ Lúmina W | AI-Powered Backend Developer | Building toward AppSec**  
-🇨🇴 Colombia · 🌐 [luminaw.co/portfolio](https://luminaw.co/portfolio)
+🇨🇴 Colombia • 🌐 [luminaw.co/portfolio](https://luminaw.co/portfolio)
 
 ---
 
