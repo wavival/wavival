@@ -11,8 +11,6 @@ Backend developer with a full-picture vision | Design • AI • Security |
 
 Currently developing **TerraCore**, a B2B SaaS platform for the agroindustrial sector in Colombia, built with Python, Django REST Framework, PostgreSQL, and React.
 
-Also co-building **We Are Ubuntu**, a circular economy and composting initiative in Medellín.
-
 Trained in cybersecurity (Diploma in Cybersecurity • EAFIT • SOC Operations), on a clear path toward **Application Security and DevSecOps**.
 
 ---
