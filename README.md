@@ -19,10 +19,12 @@ Trained in cybersecurity (Diploma in Cybersecurity • EAFIT • SOC Operations)
 
 ### NullBreach *(coming soon)*
 Full-stack security project.
+
 Secure authentication • Python/Django backend
 
 ### Penetration Testing Lab • Forgotten Portal
 Hands-on pentest lab: recon, exploitation, privilege escalation to root. 
+
 MITRE ATT&CK mapped • Full PTES technical and executive reporting.
 
 ---
