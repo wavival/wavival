@@ -1,43 +1,63 @@
-# ✨ ¡Hola! Soy **Valentina Ramírez** — @wavival 🌙
+# ✦ Valentina Ramírez — @wavival
 
-![Banner principal](assets/banner.png)
+**Founder & CEO @ Lúmina W | AI-Powered Backend Developer | Building toward AppSec**  
+🇨🇴 Colombia · 🌐 [luminaw.co/portfolio](https://luminaw.co/portfolio)
 
- **Frontend Developer** en constante evolución (nivel *Legend* en Platzi :3).
+---
 
-Actualmente estudiante de **Profesional en Lengua Inglesa** en la **Universidad de San Buenaventura (Bogotá)**, aprendiz autodidacta y fan del aprendizaje sin fin.
+## ∆ Beyond code
 
-## 💡 Más allá de código e interfaces
+Backend developer with a full-picture vision • Design • AI • Security.  
 
-☕ Amante del café y de mi playlist *súper crossover*.
-Me encantan las películas animadas, los animales, el **azul** y **Twenty One Pilots**.
-Sueño con dominar la **Ciberseguridad**, **Linux** y el **Backend**, entre otras cosas.
+Currently developing **TerraCore**, a B2B SaaS platform for the agroindustrial sector in Colombia, built with Python, Django REST Framework, PostgreSQL, and React.
 
-🌱 Actualmente estoy construyendo **Ubuntu**, una iniciativa de compostaje y economía circular,  
-y **Lúmina**, mi estudio digital donde diseño y desarrollo ideas con amor.  
+Also co-building **We Are Ubuntu**, a circular economy and composting initiative in Medellín.
 
-## 🚀 Laboratorio creativo y producción
+Trained in cybersecurity (Diploma in Cybersecurity • EAFIT • SOC Operations), on a clear path toward **Application Security and DevSecOps**.
 
-### Ubuntu
-Página web de una startup de economía circular enfocada en compostaje y sostenibilidad digital.
-Landing creada con **Astro**, **Tailwind** y **Supabase**, desplegada en **Netlify**.
+---
 
-🌿 **[Ver repo](https://github.com/wavival/Ubuntu)**  
-🌐 **[Ver demo](https://eco-ubuntu.com)**  
+## ∆ Lab & Prod
 
-### Lúmina
-Mi portafolio personal: diseño, desarrollo y propósito en una misma luz.
-Diseñado en **Figma**, construido con **Astro**, **Tailwind**, **JavaScript**, y desplegado en **Netlify**. Por cierto, mucho ☕.
+### Lúmina W
+Startup landing page — architecture, custom design system, and production deployment.  
+🌐 [Live demo](https://luminaw.co) · 💻 [Repo](https://github.com/wavival/Portfolio)
 
-💻 **[Ver repo](https://github.com/wavival/Lumina)**  
-🎨 **[Ver demo](https://luminaw.co)**  
+### We Are Ubuntu
+Landing page for a circular economy startup.  
+Astro • Tailwind • Supabase • Netlify
+🌐 [Live demo](https://eco-ubuntu.netlify.app) • 💻 [Repo](https://github.com/wavival/We-Are-Ubuntu-Landing-Page)
 
-## 🌐 A un clic
+### SecureChat *(coming soon)*
+Full-stack security project.
+Secure authentication • Python/Django backend
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/wavival)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/wavival)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge)](https://wa.me/57302101753)
-[![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge)](https://platzi.com/p/wavival)
+---
 
-📩 **wavival.dev@luminaw.co**
+## ∆ Stack
 
-> Con arto 💙 desde Medellín, Colombia.
+`Python` `Django` `PostgreSQL` `React` `TypeScript` `JavaScript` `Linux` `Git` `Astro` `TailwindCSS` `n8n` `Claude`
+
+---
+
+## ∆ Find me
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-wavival-blue?style=flat&logo=linkedin)
+
+](https://linkedin.com/in/wavival)
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-luminaw.co-black?style=flat)
+
+](https://luminaw.co/portfolio)
+[
+
+![Email](https://img.shields.io/badge/Email-wavival.dev@luminaw.co-darkgreen?style=flat)
+
+](mailto:wavival.dev@luminaw.co)
+
+---
+
+*Built with arto 💙 from Colombia.*
