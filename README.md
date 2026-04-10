@@ -7,7 +7,7 @@
 
 ## ∆ Beyond code
 
-Backend developer with a full-picture vision | Design • AI • Security |
+Backend developer with a full-picture vision | Design • AI • Security.
 
 Currently developing **TerraCore**, a B2B SaaS platform for the agroindustrial sector in Colombia, built with Python, Django REST Framework, PostgreSQL, and React.
 
