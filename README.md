@@ -1,4 +1,4 @@
-# ✦ Valentina Ramírez — @wavival
+# Valentina Ramírez • @wavival
 
 **Founder & CEO @ Lúmina W | AI-Powered Backend Developer | Building toward AppSec**  
 🇨🇴 Colombia · 🌐 [luminaw.co/portfolio](https://luminaw.co/portfolio)
@@ -7,7 +7,7 @@
 
 ## ∆ Beyond code
 
-Backend developer with a full-picture vision • Design • AI • Security.  
+Backend developer with a full-picture vision | Design • AI • Security |
 
 Currently developing **TerraCore**, a B2B SaaS platform for the agroindustrial sector in Colombia, built with Python, Django REST Framework, PostgreSQL, and React.
 
@@ -19,45 +19,26 @@ Trained in cybersecurity (Diploma in Cybersecurity • EAFIT • SOC Operations)
 
 ## ∆ Lab & Prod
 
-### Lúmina W
-Startup landing page — architecture, custom design system, and production deployment.  
-🌐 [Live demo](https://luminaw.co) · 💻 [Repo](https://github.com/wavival/Portfolio)
-
-### We Are Ubuntu
-Landing page for a circular economy startup.  
-Astro • Tailwind • Supabase • Netlify
-🌐 [Live demo](https://eco-ubuntu.netlify.app) • 💻 [Repo](https://github.com/wavival/We-Are-Ubuntu-Landing-Page)
-
-### SecureChat *(coming soon)*
+### NullBreach *(coming soon)*
 Full-stack security project.
 Secure authentication • Python/Django backend
+
+### Penetration Testing Lab • Forgotten Portal
+Hands-on pentest lab: recon, exploitation, privilege escalation to root. 
+MITRE ATT&CK mapped • Full PTES technical and executive reporting.
 
 ---
 
 ## ∆ Stack
 
-`Python` `Django` `PostgreSQL` `React` `TypeScript` `JavaScript` `Linux` `Git` `Astro` `TailwindCSS` `n8n` `Claude`
+`Django` `PostgreSQL` `React` `Linux` `Git` `Astro` `n8n` `Claude` `MITRE ATT&CK` `OWASP` `Penetration Testing`
 
 ---
 
 ## ∆ Find me
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-wavival-blue?style=flat&logo=linkedin)
-
-](https://linkedin.com/in/wavival)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-luminaw.co-black?style=flat)
-
-](https://luminaw.co/portfolio)
-[
-
-![Email](https://img.shields.io/badge/Email-wavival.dev@luminaw.co-darkgreen?style=flat)
-
-](mailto:wavival.dev@luminaw.co)
+[LinkedIn](https://linkedin.com/in/wavival) • [Portfolio](https://luminaw.co/portfolio) • [wavival.dev@luminaw.co](mailto:wavival.dev@luminaw.co)
 
 ---
 
-*Built with arto 💙 from Colombia.*
+💙
