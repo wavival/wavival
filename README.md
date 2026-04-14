@@ -23,7 +23,7 @@ The app allows users to ask cybersecurity questions powered by Claude API, submi
 
 Every decision in this project reflects a security-first mindset: the stack that protects the app is the same stack the app talks about.
 
-#### Used tools: `Python` `Django REST Framework` `PostgreSQL` `Astro` `React` `TypeScript` `JWT` `Claude API`
+Used tools: `Python` `Django REST Framework` `PostgreSQL` `Astro` `React` `TypeScript` `JWT` `Claude API`
 
 ### Penetration Testing Lab • Forgotten Portal
 
@@ -33,7 +33,7 @@ Methodology follows PTES (Penetration Testing Execution Standard) with findings 
 
 [Writeup](https://blog.luminaw.co/forgotten-portal-pentesting-dockerlabs/) • [Repository](https://github.com/wavival/forgotten-portal-writeup)
 
-#### Used tools: `NMAP` `Gobuster` `Netcat` `Python` `Base64` `GFTOBins` `MITRE ATT&CK` `PTES` `DockerLabs` `Linux`
+Used tools: `NMAP` `Gobuster` `Netcat` `Python` `Base64` `GFTOBins` `MITRE ATT&CK` `PTES` `DockerLabs` `Linux`
 
 ![Banner Forgotten Portal Machine](assets/banner-forgotten-portal.png)
 
@@ -42,4 +42,3 @@ Methodology follows PTES (Penetration Testing Execution Standard) with findings 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wavival-407bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wavival)
 [![Instagram](https://img.shields.io/badge/Instagram-@wavival-407bff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wavival)
 [![Email](https://img.shields.io/badge/Email-wavival.dev@luminaw.co-407bff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wavival.dev@luminaw.co)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+57%20311%20686%205766-407bff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573116865766)
