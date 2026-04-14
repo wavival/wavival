@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="assets/logo-w.png" width="48px" style="vertical-align: middle; margin-right: 8px;">
+  <img src="assets/logo-w.png" width="48px" valign="middle">
   Valentina Ramírez • @wavival
 </h1>
 
