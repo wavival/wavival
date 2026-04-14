@@ -1,15 +1,13 @@
-# Valentina Ramírez • @wavival
+<h1 align="left">
+  <img src="assets/logo-w.png" width="48px" style="vertical-align: middle; margin-right: 8px;">
+  Valentina Ramírez • @wavival
+</h1>
 
-**Founder & CEO @ Lúmina W | AI-Powered Backend Developer | Building toward AppSec**  
-Colombia • 🌐 [luminaw.co](https://luminaw.co)
+![Banner principal](assets/main-banner.png)
 
-
-![Banner principal](assets/banner.png)
-
-
-## ∆ Beyond code
-
-Backend developer with a full-picture vision | Design • AI • Security.
+[![Portfolio](https://img.shields.io/badge/Portfolio-wavival.github.io-407bff?style=for-the-badge&logo=vercel&logoColor=white)](https://wavival.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-blog.luminaw.co-407bff?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.luminaw.co/)
+[![Lúmina W](https://img.shields.io/badge/Lúmina%20W-luminaw.co-407bff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luminaw.co/)
 
 Currently developing **TerraCore**, a B2B SaaS platform for the agroindustrial sector in Colombia, built with Python, Django REST Framework, PostgreSQL, and React.
 
@@ -18,21 +16,30 @@ Trained in cybersecurity (Diploma in Cybersecurity • EAFIT • SOC Operations)
 ## ∆ Lab & Prod
 
 ### NullBreach *(coming soon)*
-Full-stack security project.
 
-Secure authentication • Python/Django backend
+This is a full-stack cybersecurity assistant built to demonstrate end-to-end product development, from system design and secure backend architecture to AI integration and polished frontend execution.
+
+The app allows users to ask cybersecurity questions powered by Claude API, submit code snippets for automated OWASP vulnerability detection, and manage a full query history, all behind a JWT-authenticated, production-grade REST API.
+
+Every decision in this project reflects a security-first mindset: the stack that protects the app is the same stack the app talks about.
+
+#### Used tools: `Python` `Django REST Framework` `PostgreSQL` `Astro` `React` `TypeScript` `JWT` `Claude API`
 
 ### Penetration Testing Lab • Forgotten Portal
-Hands-on pentest lab: recon, exploitation, privilege escalation to root. 
 
-MITRE ATT&CK mapped • Full PTES technical and executive reporting.
+A hands-on penetration testing lab built on DockerLabs. Full attack chain from zero to root: reconnaissance, enumeration, vulnerability exploitation, and privilege escalation.
 
-## ∆ Fav tools
+Methodology follows PTES (Penetration Testing Execution Standard) with findings mapped to MITRE ATT&CK framework. Includes both a full technical report and an executive report written for non-technical stakeholders.
 
-`Django` `PostgreSQL` `React` `Linux` `Git` `Astro` `n8n` `Claude` `MITRE ATT&CK` `OWASP` `Penetration Testing`
+[Writeup](https://blog.luminaw.co/forgotten-portal-pentesting-dockerlabs/) • [Repository](https://github.com/wavival/forgotten-portal-writeup)
+
+#### Used tools: `NMAP` `Gobuster` `Netcat` `Python` `Base64` `GFTOBins` `MITRE ATT&CK` `PTES` `DockerLabs` `Linux`
+
+![Banner Forgotten Portal Machine](assets/banner-forgotten-portal.png)
 
 ## ∆ Find me
 
-[LinkedIn](https://linkedin.com/in/wavival) • [Portfolio](https://luminaw.co/portfolio) • [Email](mailto:wavival.dev@luminaw.co)
-
-💙
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wavival-407bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wavival)
+[![Instagram](https://img.shields.io/badge/Instagram-@wavival-407bff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wavival)
+[![Email](https://img.shields.io/badge/Email-wavival.dev@luminaw.co-407bff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wavival.dev@luminaw.co)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+57%20311%20686%205766-407bff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573116865766)
