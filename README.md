@@ -5,7 +5,7 @@
 
 ![Banner principal](assets/main-banner.png)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wavival.github.io-407bff?style=for-the-badge&logo=vercel&logoColor=white)](https://wavival.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wavival.dev-407bff?style=for-the-badge&logo=vercel&logoColor=white)](https://wavival.dev)
 [![Blog](https://img.shields.io/badge/Blog-blog.luminaw.co-407bff?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.luminaw.co/)
 [![Lúmina W](https://img.shields.io/badge/Lúmina%20W-luminaw.co-407bff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luminaw.co/)
 
