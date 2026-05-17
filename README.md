@@ -25,7 +25,7 @@ This is end-to-end product development in action: system design, secure backend 
 
 Used tools: `Python` `Django REST Framework` `PostgreSQL` `React` `TypeScript` `JWT` `Claude API`
 
-![Banner Forgotten Portal Machine](assets/banner-nullbreach.png)
+![Banner NullBreach](assets/banner-nullbreach.png)
 
 ### Penetration Testing Lab • Forgotten Portal
 
@@ -40,6 +40,8 @@ Used tools: `NMAP` `Gobuster` `Netcat` `Python` `Base64` `GFTOBins` `MITRE ATT&C
 ![Banner Forgotten Portal Machine](assets/banner-forgotten-portal.png)
 
 ## ∆ Find me
+
+![Banner footer](assets/banner-footer.png)
 
 <h3 align="left">
   <img src="assets/logo-w.png" width="48px" valign="middle">
