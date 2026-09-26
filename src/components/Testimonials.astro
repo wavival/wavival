@@ -1,0 +1,258 @@
+---
+import Icons from './Icons.astro';
+---
+
+<section class="testimonials">
+  <div class="testimonials-container">
+    <div class="section-header">
+      <h2>Lo que dicen nuestros clientes</h2>
+      <p>Historias reales de clientes satisfechos</p>
+    </div>
+
+    <div class="testimonials-grid">
+      <!-- Testimonial 1 -->
+      <div class="testimonial-card">
+        <div class="stars">
+          {[...Array(5)].map(() => (
+            <Icons name="star" size={18} />
+          ))}
+        </div>
+
+        <p class="quote">
+          "La sesión fue increíble. El fotógrafo captó cada momento especial de nuestro evento. Nos encantó la edición y la calidad de las fotos. ¡Totalmente recomendado!"
+        </p>
+
+        <div class="reviewer">
+          <div class="avatar">AJ</div>
+          <div class="reviewer-info">
+            <h4>Alejandra Jiménez</h4>
+            <p>Boda - Junio 2024</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Testimonial 2 -->
+      <div class="testimonial-card">
+        <div class="stars">
+          {[...Array(5)].map(() => (
+            <Icons name="star" size={18} />
+          ))}
+        </div>
+
+        <p class="quote">
+          "Profesional, puntual y muy amable. Las fotos del cumpleaños de mi hijo son perfectas. Capturó la esencia de la celebración de manera natural y hermosa."
+        </p>
+
+        <div class="reviewer">
+          <div class="avatar">MC</div>
+          <div class="reviewer-info">
+            <h4>María Castillo</h4>
+            <p>Cumpleaños - Mayo 2024</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Testimonial 3 -->
+      <div class="testimonial-card">
+        <div class="stars">
+          {[...Array(5)].map(() => (
+            <Icons name="star" size={18} />
+          ))}
+        </div>
+
+        <p class="quote">
+          "La sesión de fotos familiar fue mejor de lo que esperábamos. El portafolio digital es hermoso y la entrega de imágenes fue muy rápida. Volveríamos sin dudarlo."
+        </p>
+
+        <div class="reviewer">
+          <div class="avatar">DR</div>
+          <div class="reviewer-info">
+            <h4>Diego Ramírez</h4>
+            <p>Sesión familiar - Abril 2024</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Testimonial 4 -->
+      <div class="testimonial-card">
+        <div class="stars">
+          {[...Array(5)].map(() => (
+            <Icons name="star" size={18} />
+          ))}
+        </div>
+
+        <p class="quote">
+          "Excelente trabajo en la sesión de maternidad. Las fotos son artísticas y con mucho detalle. El equipo es muy profesional y creativo. Definitivamente lo contactaré de nuevo."
+        </p>
+
+        <div class="reviewer">
+          <div class="avatar">SF</div>
+          <div class="reviewer-info">
+            <h4>Sofía Fernández</h4>
+            <p>Maternidad - Marzo 2024</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Testimonial 5 -->
+      <div class="testimonial-card">
+        <div class="stars">
+          {[...Array(5)].map(() => (
+            <Icons name="star" size={18} />
+          ))}
+        </div>
+
+        <p class="quote">
+          "Para el lanzamiento de nuestro producto, contratamos este servicio y fue impresionante. Las fotos corporativas lucen de primera calidad y profesionales."
+        </p>
+
+        <div class="reviewer">
+          <div class="avatar">JL</div>
+          <div class="reviewer-info">
+            <h4>Juan López</h4>
+            <p>Evento corporativo - Febrero 2024</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Testimonial 6 -->
+      <div class="testimonial-card">
+        <div class="stars">
+          {[...Array(5)].map(() => (
+            <Icons name="star" size={18} />
+          ))}
+        </div>
+
+        <p class="quote">
+          "Las fotos de nuestro aniversario fueron mágicas. Capturó la esencia de nuestro amor en cada imagen. Simplemente perfecto. Gracias por todo."
+        </p>
+
+        <div class="reviewer">
+          <div class="avatar">CM</div>
+          <div class="reviewer-info">
+            <h4>Carolina Morales</h4>
+            <p>Aniversario - Enero 2024</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .testimonials {
+    padding: 6rem 2rem;
+    background: linear-gradient(135deg, var(--color-accent-50) 0%, var(--color-primary-50) 100%);
+  }
+
+  .testimonials-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+
+  .section-header h2 {
+    font-size: 2.5rem;
+    color: var(--color-primary-700);
+    margin-bottom: 1rem;
+  }
+
+  .section-header p {
+    font-size: 1.125rem;
+    color: var(--color-dark-700);
+  }
+
+  .testimonials-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+  }
+
+  .testimonial-card {
+    background: var(--color-white);
+    border-radius: 12px;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    transition: var(--transition);
+    border: 2px solid transparent;
+  }
+
+  .testimonial-card:hover {
+    border-color: var(--color-primary-600);
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(168, 85, 247, 0.12);
+  }
+
+  .stars {
+    display: flex;
+    gap: 0.5rem;
+    color: #fbbf24;
+  }
+
+  .quote {
+    font-style: italic;
+    color: var(--color-dark-800);
+    line-height: 1.8;
+    font-size: 0.95rem;
+  }
+
+  .reviewer {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: auto;
+  }
+
+  .avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--color-primary-600), var(--color-accent-600));
+    color: var(--color-white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 1.125rem;
+    flex-shrink: 0;
+  }
+
+  .reviewer-info h4 {
+    margin: 0;
+    font-size: 0.95rem;
+    color: var(--color-dark-900);
+  }
+
+  .reviewer-info p {
+    margin: 0;
+    font-size: 0.8rem;
+    color: var(--color-dark-700);
+  }
+
+  @media (max-width: 1024px) {
+    .testimonials-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .testimonials {
+      padding: 3rem 1rem;
+    }
+
+    .testimonials-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .section-header h2 {
+      font-size: 1.75rem;
+    }
+  }
+</style>
