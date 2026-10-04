@@ -13,40 +13,82 @@ Currently developing **TerraCore**, a B2B SaaS platform for the agroindustrial s
 
 > Trained in cybersecurity (Diploma in Cybersecurity • EAFIT • SOC Operations), on a clear path toward **Application Security and DevSecOps**.
 
-## ∆ Lab & Prod
+## Contents
 
-### NullBreach • Project
+- [Projects](#projects)
+  - [TerraCore PWA](#terracore-pwa)
+  - [OKroot PWA](#okroot-pwa)
+  - [NullBreach](#nullbreach)
+  - [Blog Lúmina W](#blog-lúmina-w)
+  - [wavival.dev](#wavivaldev)
+  - [Forgotten Portal](#forgotten-portal)
+- [Contact](#contact)
 
-Full-stack cybersecurity assistant that lets you ask security questions powered by Claude AI, submit code snippets for automated OWASP vulnerability detection, and maintain a complete query history, all behind a production-grade, JWT-authenticated REST API.
+## Projects
 
-This is end-to-end product development in action: system design, secure backend architecture, AI integration, and a polished frontend. Every architectural decision reflects a security-first mindset, the stack that protects the app is the same stack the app analyzes.
+### TerraCore PWA
 
-[Live Demo](https://wavival.dev/nullbreach) • [Backend Repository](https://github.com/wavival/nullbreach-api) • [Frontend Repository](https://github.com/wavival/nullbreach-web)
+Multi-user, offline-first PWA for Colombian farms. It tracks livestock, crops, inputs, production, animal health and finances in a single system where every action in one module updates the others. It replaces notebooks, spreadsheets and WhatsApp groups as the operational tool, with roles and permissions per site.
 
-Used tools: `Python` `Django REST Framework` `PostgreSQL` `React` `TypeScript` `JWT` `Claude API`
+[Live app](https://app.terracoreapp.co) • [Case study](https://www.wavival.dev/proyectos/terracore) • [Design prototype](https://terracore-prototype.netlify.app/)
 
-![Banner NullBreach](assets/banner-nullbreach.png)
+Used tools: `Django` `DRF` `PostgreSQL` `Celery` `Redis` `JWT` `React` `TypeScript` `Dexie` `Tailwind CSS`
 
-### Penetration Testing Lab • Forgotten Portal
+![TerraCore](assets/og-terracore.webp)
 
-A hands-on penetration testing lab built on DockerLabs. Full attack chain from zero to root: reconnaissance, enumeration, vulnerability exploitation, and privilege escalation.
+### OKroot PWA
 
-Methodology follows PTES (Penetration Testing Execution Standard) with findings mapped to MITRE ATT&CK framework. Includes both a full technical report and an executive report written for non-technical stakeholders.
+Offline-first food safety PWA for people with celiac disease, diabetes or lactose intolerance. Users photograph a product label and Claude AI analyzes it against their restrictions to say whether it is safe to eat.
+
+[Live app](https://app.okroot.co/) • [Landing](https://okroot.co/) • [Case study](https://www.wavival.dev/proyectos/okroot)
+
+Used tools: `React` `TypeScript` `Vite` `Tailwind CSS` `Dexie` `Django` `DRF` `PostgreSQL` `Claude API` `PWA`
+
+![OKroot](assets/og-okroot.webp)
+
+### NullBreach
+
+Open-source application security assistant. It runs OWASP-aligned code analysis with severity, impact and remediation guidance, and includes a secure development chat. Users, queries and analyses are stored in PostgreSQL through Prisma.
+
+[Live demo](https://www.wavival.dev/nullbreach/) • [Repository](https://github.com/wavival/nullbreach) • [Case study](https://www.wavival.dev/proyectos/nullbreach)
+
+Used tools: `Next.js` `React` `TypeScript` `Tailwind CSS` `NextAuth` `Prisma` `PostgreSQL` `OpenAI API` `Astro` `Vercel`
+
+![NullBreach](assets/og-nullbreach.webp)
+
+### Blog Lúmina W
+
+Technical blog of Lúmina W about web development, cybersecurity and digital products, built with Next.js and shipped as a PWA.
+
+[Blog](https://blog.luminaw.co) • [Case study](https://www.wavival.dev/proyectos/blog-lumina-w)
+
+Used tools: `Next.js` `PWA`
+
+![Blog Lúmina W](assets/og-blogw.webp)
+
+### wavival.dev
+
+This portfolio, version 4: a bilingual (Spanish and English) static site with an editorial design system, a single blue signal color and AA contrast in both themes. It includes a serverless quote-delivery function and is designed in Claude Design.
+
+[Live site](https://www.wavival.dev) • [Case study](https://www.wavival.dev/proyectos/wavival-dev) • [Design prototype](https://wavival-prototype.netlify.app/) • [Repository](https://github.com/wavival/wavival.dev)
+
+Used tools: `Astro` `TypeScript` `Tailwind CSS` `Vercel` `Playwright`
+
+![wavival.dev](assets/og-wavival-dev.webp)
+
+### Forgotten Portal
+
+Penetration testing lab on a DockerLabs machine, from zero to root: reconnaissance, enumeration, exploitation of an unvalidated PHP upload (CWE-434), reverse shell with Netcat and privilege escalation. Documented with the PTES methodology and TTPs mapped to MITRE ATT&CK, with both a technical and an executive report.
 
 [Writeup](https://blog.luminaw.co/forgotten-portal-pentesting-dockerlabs/) • [Repository](https://github.com/wavival/forgotten-portal-writeup)
 
-Used tools: `NMAP` `Gobuster` `Netcat` `Python` `Base64` `GFTOBins` `MITRE ATT&CK` `PTES` `DockerLabs` `Linux`
+Used tools: `Nmap` `Gobuster` `Netcat` `Python` `MITRE ATT&CK` `PTES` `DockerLabs` `Linux`
 
-![Banner Forgotten Portal Machine](assets/banner-forgotten-portal.png)
+![Forgotten Portal](assets/forgotten-portal.webp)
 
-## ∆ Find me
+## Contact
 
-![Banner footer](assets/banner-footer.png)
-
-<h3 align="left">
-  <img src="assets/logo-w.png" width="48px" valign="middle">
-  Valentina Ramírez • @wavival
-</h3>
+<img src="assets/logo-w.png" alt="Wavival logo" width="48" align="middle"> **Valentina Ramírez · @wavival**
 
 > Thanks for getting here. Let's build great things.
 
