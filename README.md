@@ -18,12 +18,14 @@ Currently developing **TerraCore**, a B2B SaaS platform for the agroindustrial s
 - [Projects](#projects)
   - [TerraCore](#terracore)
   - [OKroot](#okroot)
-  - [NullBreach](#nullbreach)
   - [Blog Lúmina W](#blog-lúmina-w)
-  - [wavival.dev](#wavivaldev)
+  - [NullBreach](#nullbreach)
+  - [Professional Portfolio](#professional-portfolio)
   - [Lúmina W](#lúmina-w)
   - [Forgotten Portal](#forgotten-portal)
 - [Contact](#contact)
+
+I'm Valentina Ramírez, a Colombian Full Stack Developer and founder of Lúmina W. I build production-ready products from the data model to the interface people use, with AI and security integrated where they matter.
 
 ## Projects
 
@@ -47,16 +49,6 @@ The public site presents the product and the app preserves records offline. Reac
 
 <a href="https://okroot.co/" target="_blank" rel="noopener noreferrer">View site</a> · <a href="https://app.okroot.co/" target="_blank" rel="noopener noreferrer">View app</a> · <a href="https://www.wavival.dev/proyectos/okroot" target="_blank" rel="noopener noreferrer">Case study</a>
 
-### NullBreach
-
-<a href="https://www.wavival.dev/nullbreach/" target="_blank" rel="noopener noreferrer"><img src="assets/preview-nullbreach.png" alt="NullBreach application"></a>
-
-Open-source application-security assistant. Authenticated users can submit code snippets of up to 20,000 characters for OWASP-aligned analysis with severity, impact, and remediation guidance, or use a secure-development chat. Queries and analyses are stored per account.
-
-The application uses Next.js App Router, React, TypeScript, Prisma Postgres, NextAuth, and the OpenAI Responses API exclusively from the server. It is deployed under `wavival.dev/nullbreach` through Vercel Microfrontends, with credential and Google OAuth login, password recovery through Brevo, two-layer authorization, Swagger UI, OpenAPI, and a health endpoint. CI validates formatting, types, Prisma, tests, dependencies, and secrets before staging and production deployments.
-
-<a href="https://www.wavival.dev/nullbreach/" target="_blank" rel="noopener noreferrer">View app</a> · <a href="https://www.wavival.dev/nullbreach/swagger" target="_blank" rel="noopener noreferrer">API</a> · <a href="https://github.com/wavival/nullbreach" target="_blank" rel="noopener noreferrer">Repository</a> · <a href="https://www.wavival.dev/proyectos/nullbreach" target="_blank" rel="noopener noreferrer">Case study</a>
-
 ### Blog Lúmina W
 
 <a href="https://blog.luminaw.co/" target="_blank" rel="noopener noreferrer"><img src="assets/preview-blog-luminaw.png" alt="Blog Lúmina W home page"></a>
@@ -67,7 +59,17 @@ Built with Next.js App Router, React, TypeScript, Tailwind CSS, Prisma, PostgreS
 
 <a href="https://blog.luminaw.co/" target="_blank" rel="noopener noreferrer">View site</a> · <a href="https://www.wavival.dev/proyectos/blog-lumina-w" target="_blank" rel="noopener noreferrer">Case study</a>
 
-### wavival.dev
+### NullBreach
+
+<a href="https://www.wavival.dev/nullbreach/" target="_blank" rel="noopener noreferrer"><img src="assets/preview-nullbreach.png" alt="NullBreach application"></a>
+
+Open-source application-security assistant. Authenticated users can submit code snippets of up to 20,000 characters for OWASP-aligned analysis with severity, impact, and remediation guidance, or use a secure-development chat. Queries and analyses are stored per account.
+
+The application uses Next.js App Router, React, TypeScript, Prisma Postgres, NextAuth, and the OpenAI Responses API exclusively from the server. It is deployed under `wavival.dev/nullbreach` through Vercel Microfrontends, with credential and Google OAuth login, password recovery through Brevo, two-layer authorization, Swagger UI, OpenAPI, and a health endpoint. CI validates formatting, types, Prisma, tests, dependencies, and secrets before staging and production deployments.
+
+<a href="https://www.wavival.dev/nullbreach/" target="_blank" rel="noopener noreferrer">View site</a> · <a href="https://www.wavival.dev/nullbreach/login" target="_blank" rel="noopener noreferrer">View app</a> · <a href="https://www.wavival.dev/proyectos/nullbreach" target="_blank" rel="noopener noreferrer">Case study</a> · <a href="https://www.wavival.dev/nullbreach/swagger" target="_blank" rel="noopener noreferrer">API</a> · <a href="https://github.com/wavival/nullbreach" target="_blank" rel="noopener noreferrer">Repository</a>
+
+### Professional Portfolio
 
 <a href="https://www.wavival.dev/" target="_blank" rel="noopener noreferrer"><img src="assets/preview-wavival-dev.png" alt="wavival.dev home page"></a>
 
@@ -75,7 +77,7 @@ Bilingual portfolio and design case built around `@wavival | Design System v4`. 
 
 The static production site uses Astro, TypeScript, and Tailwind CSS with custom tokens. Client-side JavaScript is limited to theme, navigation, and filters. It includes JSON-LD, project-specific Open Graph metadata, sitemap, hreflang, `llms.txt`, self-hosted fonts, View Transitions, hash-based CSP, and a Brevo-powered serverless quote form. Vercel deploys it alongside NullBreach through microfrontends, with Playwright, Lighthouse CI, link checks, and commitlint as quality gates.
 
-<a href="https://www.wavival.dev/" target="_blank" rel="noopener noreferrer">View site</a> · <a href="https://github.com/wavival/wavival.dev" target="_blank" rel="noopener noreferrer">Repository</a> · <a href="https://www.wavival.dev/proyectos/wavival-dev" target="_blank" rel="noopener noreferrer">Case study</a>
+<a href="https://www.wavival.dev/" target="_blank" rel="noopener noreferrer">View site</a> · <a href="https://www.wavival.dev/proyectos/wavival-dev" target="_blank" rel="noopener noreferrer">Case study</a> · <a href="https://github.com/wavival/wavival.dev" target="_blank" rel="noopener noreferrer">Repository</a>
 
 ### Lúmina W
 
@@ -85,7 +87,7 @@ B2B software company building custom software, automations, and digital systems 
 
 The bilingual site is published with Astro and includes Open Graph metadata, structured data, sitemap, and `llms.txt` for discovery.
 
-<a href="https://luminaw.co/" target="_blank" rel="noopener noreferrer">View site</a>
+<a href="https://luminaw.co/" target="_blank" rel="noopener noreferrer">View site</a> · <a href="https://www.wavival.dev/proyectos/lumina-w" target="_blank" rel="noopener noreferrer">Case study</a>
 
 ### Forgotten Portal
 
@@ -100,6 +102,8 @@ The work follows the PTES methodology and uses Nmap, Gobuster, Netcat, and Pytho
 ## Contact
 
 <img src="assets/logo-w.png" alt="Wavival logo" width="48" align="middle"> **Valentina Ramírez · @wavival**
+
+> Open to collaborating or working together on a project.
 
 > Thanks for getting here. Let's build great things.
 
