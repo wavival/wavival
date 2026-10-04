@@ -5,9 +5,9 @@
 
 ![Banner principal](assets/banner-main.png)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wavival.dev-407bff?style=for-the-badge&logo=vercel&logoColor=white)](https://wavival.dev)
-[![Blog](https://img.shields.io/badge/Blog-blog.luminaw.co-407bff?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.luminaw.co/)
-[![Lúmina W](https://img.shields.io/badge/Lúmina%20W-luminaw.co-407bff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luminaw.co/)
+<a href="https://wavival.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-wavival.dev-407bff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://blog.luminaw.co/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-blog.luminaw.co-407bff?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"></a>
+<a href="https://luminaw.co/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Lúmina%20W-luminaw.co-407bff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Lúmina W"></a>
 
 Currently developing **TerraCore**, a B2B SaaS platform for the agroindustrial sector in Colombia, built with Python, Django REST Framework, PostgreSQL, and React.
 
@@ -29,73 +29,73 @@ Currently developing **TerraCore**, a B2B SaaS platform for the agroindustrial s
 
 ### TerraCore
 
-Plataforma multiusuario y offline-first para fincas colombianas. Centraliza animales, cultivos, insumos, herramientas, producción, salud animal y finanzas; los módulos están conectados, por lo que una acción en campo actualiza los registros relacionados. Reemplaza cuadernos, hojas de cálculo y grupos de WhatsApp con permisos por sede y roles de administrador, operario y colaborador.
+<a href="https://www.terracoreapp.co/" target="_blank" rel="noopener noreferrer"><img src="assets/preview-terracore.png" alt="TerraCore landing page"></a>
 
-La [landing](https://www.terracoreapp.co/) presenta el producto y la [app](https://app.terracoreapp.co/) permite operar sin señal. Está construida con Django 6, DRF y PostgreSQL 16 en el backend, y React 19, TypeScript, Vite, Tailwind CSS 4 y Dexie en el cliente. El Service Worker, IndexedDB y una cola de salida sincronizan escrituras cuando vuelve la conexión; Celery y Redis gestionan alertas y cobros. Incluye multitenancy desde JWT, sincronización con control de versiones e importación y exportación CSV.
+Multi-user, offline-first farm management platform for Colombia. It centralizes livestock, crops, inventory, equipment, production, animal health, and finances. Connected modules keep operational data consistent across the farm, while site-level roles and permissions replace notebooks, spreadsheets, and WhatsApp groups.
 
-[Landing](https://www.terracoreapp.co/) • [App](https://app.terracoreapp.co/) • [Caso de estudio](https://www.wavival.dev/proyectos/terracore) • [Prototipo](https://terracore-pwa-prototype.netlify.app/)
+The public site explains the product, while the app supports field operations without a connection. The stack combines Django, Django REST Framework, PostgreSQL, Celery, Redis, React, TypeScript, Vite, Tailwind CSS, and Dexie. Service Workers, IndexedDB, and an outbox synchronize writes when connectivity returns; the platform also includes JWT-based multitenancy, versioned sync, and CSV import and export.
 
-[![TerraCore](assets/og-terracore.webp)](https://www.terracoreapp.co/)
+<a href="https://www.terracoreapp.co/" target="_blank" rel="noopener noreferrer">View site</a> · <a href="https://app.terracoreapp.co/" target="_blank" rel="noopener noreferrer">View app</a> · <a href="https://www.wavival.dev/proyectos/terracore" target="_blank" rel="noopener noreferrer">Case study</a>
 
 ### OKroot
 
-Aplicación de seguridad alimentaria para personas con celiaquía, diabetes o intolerancia a la lactosa, incluso cuando combinan condiciones. El scanner analiza una foto de la etiqueta y devuelve si el producto es apto, requiere cuidado o no es apto, con el ingrediente determinante, riesgo de trazas y macros. También integra diario de comidas, bitácora de salud, recetas, insights y mercado semanal.
+<a href="https://okroot.co/" target="_blank" rel="noopener noreferrer"><img src="assets/preview-okroot.png" alt="OKroot landing page"></a>
 
-La [landing](https://okroot.co/) explica el producto y la [app](https://app.okroot.co/) guarda registros sin conexión. Su stack combina React 18, TypeScript, Vite, Tailwind CSS 4, Zustand, TanStack Query y Dexie con Django 5.1, DRF y PostgreSQL. El backend valida las imágenes, consulta Claude API con el perfil de salud y reglas duras para ingredientes prohibidos, y descarta la foto después del análisis. Incluye sincronización idempotente, cuotas atómicas de escaneos, pagos con Stripe y Mercado Pago, JWT con refresh rotativo y controles de seguridad en Nginx y DRF.
+Food-safety app for people with celiac disease, diabetes, or lactose intolerance, including combined conditions. Its scanner analyzes a product-label photo and returns a safe, caution, or unsafe verdict with the deciding ingredient, cross-contamination risk, and nutrition data. It also includes a food journal, health log, recipes, insights, and a weekly grocery list.
 
-[Landing](https://okroot.co/) • [App](https://app.okroot.co/) • [Caso de estudio](https://www.wavival.dev/proyectos/okroot)
+The public site presents the product and the app preserves records offline. React, TypeScript, Vite, Tailwind CSS, Zustand, TanStack Query, and Dexie power the client; Django, Django REST Framework, and PostgreSQL power the backend. Claude API evaluates labels against the persistent health profile and hard rules for excluded ingredients. The platform also provides idempotent sync, atomic scan quotas, Stripe and Mercado Pago payments, rotating JWT refresh tokens, and security controls in Nginx and DRF.
 
-[![OKroot](assets/og-okroot.webp)](https://okroot.co/)
+<a href="https://okroot.co/" target="_blank" rel="noopener noreferrer">View site</a> · <a href="https://app.okroot.co/" target="_blank" rel="noopener noreferrer">View app</a> · <a href="https://www.wavival.dev/proyectos/okroot" target="_blank" rel="noopener noreferrer">Case study</a>
 
 ### NullBreach
 
-Asistente de seguridad de aplicaciones de código abierto. Una persona con cuenta puede analizar fragmentos de hasta 20.000 caracteres contra criterios OWASP, con severidad, impacto y remediación, o usar un chat de desarrollo seguro. Las consultas y análisis quedan asociados a cada cuenta; la landing pública explica el producto y las rutas privadas concentran la aplicación.
+<a href="https://www.wavival.dev/nullbreach/" target="_blank" rel="noopener noreferrer"><img src="assets/preview-nullbreach.png" alt="NullBreach application"></a>
 
-Es una aplicación única con Next.js App Router, React, TypeScript y Prisma Postgres, desplegada bajo `wavival.dev/nullbreach` mediante Vercel Microfrontends. Usa OpenAI Responses API únicamente desde el servidor, NextAuth con credenciales y Google OAuth, recuperación de contraseña por Brevo y autorización en dos capas. La API incluye Swagger UI, OpenAPI y health check; su CI valida formato, tipos, Prisma, pruebas, dependencias y secretos antes de desplegar staging y producción.
+Open-source application-security assistant. Authenticated users can submit code snippets of up to 20,000 characters for OWASP-aligned analysis with severity, impact, and remediation guidance, or use a secure-development chat. Queries and analyses are stored per account.
 
-[Producción](https://www.wavival.dev/nullbreach/) • [API](https://www.wavival.dev/nullbreach/swagger) • [Repositorio](https://github.com/wavival/nullbreach) • [Caso de estudio](https://www.wavival.dev/proyectos/nullbreach)
+The application uses Next.js App Router, React, TypeScript, Prisma Postgres, NextAuth, and the OpenAI Responses API exclusively from the server. It is deployed under `wavival.dev/nullbreach` through Vercel Microfrontends, with credential and Google OAuth login, password recovery through Brevo, two-layer authorization, Swagger UI, OpenAPI, and a health endpoint. CI validates formatting, types, Prisma, tests, dependencies, and secrets before staging and production deployments.
 
-[![NullBreach](assets/og-nullbreach.webp)](https://www.wavival.dev/nullbreach/)
+<a href="https://www.wavival.dev/nullbreach/" target="_blank" rel="noopener noreferrer">View app</a> · <a href="https://www.wavival.dev/nullbreach/swagger" target="_blank" rel="noopener noreferrer">API</a> · <a href="https://github.com/wavival/nullbreach" target="_blank" rel="noopener noreferrer">Repository</a> · <a href="https://www.wavival.dev/proyectos/nullbreach" target="_blank" rel="noopener noreferrer">Case study</a>
 
 ### Blog Lúmina W
 
-Plataforma bilingüe de Lúmina W sobre desarrollo web, ciberseguridad y producto digital. Combina publicaciones propias en Markdown con artículos propuestos por la comunidad: cada envío pasa por borrador, revisión, publicación o rechazo. Incluye perfiles, comentarios con hilos, likes, guardados, seguimiento, búsqueda, categorías, newsletter por idioma y panel de moderación.
+<a href="https://blog.luminaw.co/" target="_blank" rel="noopener noreferrer"><img src="assets/preview-blog-luminaw.png" alt="Blog Lúmina W home page"></a>
 
-Está construida con Next.js App Router, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL en Supabase, Supabase Storage, Claude API y Brevo. Los artículos publicados pueden traducirse automáticamente entre español e inglés; el Markdown se sanitiza antes de renderizarse y las imágenes se verifican por firma, transforman a WebP y se almacenan con límites por uso. Incluye CSP con nonce, limitación de frecuencia atómica, validación de origen, sitemap, RSS, JSON-LD y `llms.txt`.
+Bilingual platform by Lúmina W for web development, cybersecurity, and digital-product writing. It combines repository Markdown posts with community-submitted articles that move through draft, review, publication, or rejection. The product includes profiles, threaded comments, likes, saved posts, following, search, categories, language-specific newsletters, and moderation tools.
 
-[Producción](https://blog.luminaw.co/) • [Caso de estudio](https://www.wavival.dev/proyectos/blog-lumina-w)
+Built with Next.js App Router, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL on Supabase, Supabase Storage, Claude API, and Brevo. Published posts can be automatically translated between Spanish and English; Markdown is sanitized before rendering, and uploaded images are signature-checked, converted to WebP, and stored with usage-specific limits. The platform includes CSP with nonce, atomic rate limiting, origin validation, sitemap, RSS, JSON-LD, and `llms.txt`.
 
-[![Blog Lúmina W](assets/og-blogw.webp)](https://blog.luminaw.co/)
+<a href="https://blog.luminaw.co/" target="_blank" rel="noopener noreferrer">View site</a> · <a href="https://www.wavival.dev/proyectos/blog-lumina-w" target="_blank" rel="noopener noreferrer">Case study</a>
 
 ### wavival.dev
 
-Portafolio bilingüe y caso de diseño construido alrededor de `@wavival | Design System v4`. Español se publica en la raíz e inglés bajo `/en`; los proyectos, el stack y sus rutas localizadas salen de contenido tipado. Su sistema editorial usa reglas de 1 px, índices numerados, una señal azul y contraste AA en ambos temas, con accesibilidad como restricción de diseño.
+<a href="https://www.wavival.dev/" target="_blank" rel="noopener noreferrer"><img src="assets/preview-wavival-dev.png" alt="wavival.dev home page"></a>
 
-La producción estática usa Astro 7, TypeScript y Tailwind CSS con tokens propios; el JavaScript de cliente se limita al tema, menú y filtros. Incluye JSON-LD, Open Graph por proyecto, `sitemap`, `hreflang`, `llms.txt`, fuentes autoalojadas, View Transitions, CSP por hashes y una función serverless para cotizaciones con Brevo. Se despliega en Vercel junto a NullBreach mediante microfrontends y mantiene calidad con Playwright, Lighthouse CI, verificación de enlaces y commitlint.
+Bilingual portfolio and design case built around `@wavival | Design System v4`. Spanish is published at the root and English under `/en`; projects, stack entries, and localized routes are generated from typed content. Its editorial system uses 1 px rules, numbered indexes, a single blue signal, and AA contrast in both themes, with accessibility treated as a design constraint.
 
-[Producción](https://www.wavival.dev/) • [Caso de estudio](https://www.wavival.dev/proyectos/wavival-dev) • [Prototipo](https://wavival-prototype.netlify.app/) • [Repositorio](https://github.com/wavival/wavival.dev)
+The static production site uses Astro, TypeScript, and Tailwind CSS with custom tokens. Client-side JavaScript is limited to theme, navigation, and filters. It includes JSON-LD, project-specific Open Graph metadata, sitemap, hreflang, `llms.txt`, self-hosted fonts, View Transitions, hash-based CSP, and a Brevo-powered serverless quote form. Vercel deploys it alongside NullBreach through microfrontends, with Playwright, Lighthouse CI, link checks, and commitlint as quality gates.
 
-[![wavival.dev](assets/og-wavival-dev.webp)](https://www.wavival.dev/)
+<a href="https://www.wavival.dev/" target="_blank" rel="noopener noreferrer">View site</a> · <a href="https://github.com/wavival/wavival.dev" target="_blank" rel="noopener noreferrer">Repository</a> · <a href="https://www.wavival.dev/proyectos/wavival-dev" target="_blank" rel="noopener noreferrer">Case study</a>
 
 ### Lúmina W
 
-Empresa de software B2B que crea software a medida, automatizaciones y sistemas digitales para empresas que necesitan operar sin procesos manuales. Su landing presenta los servicios y productos de Lúmina W para Colombia.
+<a href="https://luminaw.co/" target="_blank" rel="noopener noreferrer"><img src="assets/preview-luminaw.png" alt="Lúmina W home page"></a>
 
-El sitio está publicado con Astro y ofrece versiones en español e inglés, con metadatos Open Graph, datos estructurados, `sitemap` y `llms.txt` para descubrimiento.
+B2B software company building custom software, automations, and digital systems for companies that need to move beyond manual processes. Its public site presents Lúmina W's services and products for Colombian businesses.
 
-[Producción](https://luminaw.co/)
+The bilingual site is published with Astro and includes Open Graph metadata, structured data, sitemap, and `llms.txt` for discovery.
 
-[![Lúmina W](assets/og-luminaw.png)](https://luminaw.co/)
+<a href="https://luminaw.co/" target="_blank" rel="noopener noreferrer">View site</a>
 
 ### Forgotten Portal
 
-Ejercicio de pentesting sobre una máquina DockerLabs en un entorno controlado, de acceso inicial a root. Documenta reconocimiento, enumeración, explotación de una carga PHP sin validar, reverse shell y escalamiento de privilegios; el alcance se limita al contenedor de laboratorio con Apache y OpenSSH.
+<a href="https://blog.luminaw.co/forgotten-portal-pentesting-dockerlabs/" target="_blank" rel="noopener noreferrer"><img src="assets/preview-forgotten-portal.png" alt="Forgotten Portal write-up"></a>
 
-Se ejecutó con metodología PTES y herramientas como Nmap, Gobuster, Netcat y Python. El proyecto reúne siete hallazgos con severidad, CVSS v3.1, CWE, evidencia y remediación, además del mapeo a MITRE ATT&CK y una matriz de riesgo basada en ISO/IEC 27005. Incluye un informe técnico, uno ejecutivo y 28 capturas anotadas para que el ejercicio sea reproducible.
+Penetration-testing exercise against a DockerLabs machine in a controlled environment, from initial access to root. It documents reconnaissance, enumeration, exploitation of an unvalidated PHP upload, reverse shell, and privilege escalation; the scope is limited to a laboratory container running Apache and OpenSSH.
 
-[Writeup](https://blog.luminaw.co/forgotten-portal-pentesting-dockerlabs/) • [Repositorio](https://github.com/wavival/forgotten-portal-writeup) • [Caso de estudio](https://www.wavival.dev/proyectos/forgotten-portal)
+The work follows the PTES methodology and uses Nmap, Gobuster, Netcat, and Python. It documents seven findings with severity, CVSS v3.1, CWE, evidence, and remediation, plus MITRE ATT&CK mapping and an ISO/IEC 27005-based risk matrix. The repository includes technical and executive reports and 28 annotated screenshots to make the exercise reproducible.
 
-[![Forgotten Portal](assets/forgotten-portal.webp)](https://blog.luminaw.co/forgotten-portal-pentesting-dockerlabs/)
+<a href="https://blog.luminaw.co/forgotten-portal-pentesting-dockerlabs/" target="_blank" rel="noopener noreferrer">Write-up</a> · <a href="https://github.com/wavival/forgotten-portal-writeup" target="_blank" rel="noopener noreferrer">Repository</a> · <a href="https://www.wavival.dev/proyectos/forgotten-portal" target="_blank" rel="noopener noreferrer">Case study</a>
 
 ## Contact
 
@@ -103,6 +103,6 @@ Se ejecutó con metodología PTES y herramientas como Nmap, Gobuster, Netcat y P
 
 > Thanks for getting here. Let's build great things.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-wavival-407bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wavival)
-[![Instagram](https://img.shields.io/badge/Instagram-@wavival-407bff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wavival)
-[![Email](https://img.shields.io/badge/Email-wavival.dev@luminaw.co-407bff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wavival.dev@luminaw.co)
+<a href="https://www.linkedin.com/in/wavival" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-wavival-407bff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/wavival" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-@wavival-407bff?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:wavival.dev@luminaw.co"><img src="https://img.shields.io/badge/Email-wavival.dev@luminaw.co-407bff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
